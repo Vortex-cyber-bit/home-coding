@@ -1,0 +1,106 @@
+.header
+{
+    background-color:rgb(220, 20, 60);
+    color:white;
+    padding:3px;
+}
+
+.sp
+{
+    font-size: 30px;;
+    color:silver;
+}
+
+.centering
+{
+    text-align: center;
+}
+
+.content
+{
+    color:#858383;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px 20px 30px 30px;
+}
+.name
+{
+    text-align: center;
+}
+
+.skills
+{
+    padding: 20px;
+    background-color: #f2f2f2;
+}
+
+.skill
+{
+    height: 150px;
+    width: 150px;
+    color:blue;
+    border-radius: 20px;
+    display: inline-block;
+
+}
+
+.coding
+{
+    background-color: blue;
+}
+
+.p
+{
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+}
+
+#ade
+{
+    height: 250px;
+    width: 250px;
+}
+
+.html
+{
+     background-color: red;
+     border-radius: 50%;
+}
+
+#tin
+{
+    height: 250px;
+    width: 250px;
+}
+
+.css
+{
+    background-color: purple;
+    border-bottom-left-radius: 40%;
+}
+
+#tan
+{
+    height: 250px;
+    width: 250px;
+}
+
+.d 
+{
+    margin: 0 auto;
+    width: fit-content;
+   
+}
+
+.footer
+{
+    padding: 8px;
+    background-color: black;
+    margin-top: 24px;
+}
+
+body 
+{
+    margin:0;
+    
+}

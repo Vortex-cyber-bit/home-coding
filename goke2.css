@@ -1,0 +1,140 @@
+body {
+    background-color: crimson;
+    color: #ffffffff;
+}
+
+.firstparagraph
+{
+    color: blue;
+}
+
+.firstdiv
+{
+    background-color: grey;
+    width:100%;
+    border-radius: 5px;
+}
+.main
+{
+    background-color: grey;
+    display: flex;
+    width: 100%;
+}
+
+.s2nd
+{
+    background-color: #00ff;
+    height: 100px;
+    width: 200px;
+    margin: 20px;
+    padding: 20px;
+    border: 10px solid black;
+}
+
+.t3rd
+{
+    background-color: #ff0000;
+    height: 100px;
+    width: 200px;
+    margin: 20px;
+    padding: 20px;
+    border: 10px dashed black;
+}
+
+.f4th
+{
+    background-color: #800080;
+    height: 100px;
+    width: 200px;
+    margin: 20px;
+    padding: 20px;
+    border: 10px dotted black;
+}
+
+.mistake
+{
+    display: flex;
+    width: 500px;
+    margin: auto;
+    background-color: black;
+    width: 100%;
+}
+
+.mistake2
+{
+    margin: 25px;
+}
+
+.help
+{
+    color: green;
+}
+
+.footer
+{
+    border-radius: 35px;
+    height: 35px;
+    background-color: black;
+}
+
+.name
+{
+    font-size: 33px;
+}
+
+button
+{
+    background-color: #7b0a97;
+}
+button:hover{
+    background-color: rgb(187, 90, 10);
+}
+a
+{
+    background-color: red;
+}
+
+a:hover 
+{
+    background-color: greenyellow;
+    text-decoration: overline;
+}
+
+.lol
+{
+    background-color: black;
+}
+
+.lol:hover
+{
+    background-color: rgb(5, 99, 99);
+}
+li{
+    list-style-type:armenian;
+}
+
+li:hover
+{
+    list-style-type: square;
+}
+
+.fun1
+{
+  transition: transform 0.5s ease;
+}
+
+.fun1:hover
+{
+    transform: scale(2);
+}
+
+.fun2
+{
+  transition: transform 0.5s ease;
+}
+
+.fun2:hover
+{
+    transform: scale(2);
+}
+
